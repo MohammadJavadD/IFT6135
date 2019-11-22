@@ -10,3 +10,6 @@
 [submodule "IFT-6135-assignment3"]
 	path = IFT-6135-assignment3
 	url = https://github.com/florianfraisse1/IFT-6135-assignment3.git
+[submodule "EEGLearn"]
+	path = EEGLearn
+	url = https://github.com/MohammadJavadD/EEGLearn.git
