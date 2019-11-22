@@ -3,11 +3,14 @@
 
 # Repo. files:
 
-Assignment #1
+Assignments' Question
 
-Assignment #2
 
-Assignment #3
+Assignment #1 Answer
+
+Assignment #2 Answer
+
+Assignment #3 Answer
 
 
 # Course Description:
