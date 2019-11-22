@@ -1,15 +1,15 @@
 [submodule "IFT6135H19_assignment"]
 	path = IFT6135H19_assignment
-	url = https://github.com/CW-Huang/IFT6135H19_assignment.git
+	url = https://github.com/MohammadJavadD/IFT6135H19_assignment.git
 [submodule "IFT-6135-assignment1"]
 	path = IFT-6135-assignment1
-	url = https://github.com/florianfraisse1/IFT-6135-assignment1.git
+	url = https://github.com/MohammadJavadD/IFT-6135-assignment1.git
 [submodule "IFT-6135-assignment2"]
 	path = IFT-6135-assignment2
-	url = https://github.com/florianfraisse1/IFT-6135-assignment2.git
+	url = https://github.com/MohammadJavadD/IFT-6135-assignment2.git
 [submodule "IFT-6135-assignment3"]
 	path = IFT-6135-assignment3
-	url = https://github.com/florianfraisse1/IFT-6135-assignment3.git
+	url = https://github.com/MohammadJavadD/IFT-6135-assignment3.git
 [submodule "EEGLearn"]
 	path = EEGLearn
 	url = https://github.com/MohammadJavadD/EEGLearn.git
